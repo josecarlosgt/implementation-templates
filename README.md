@@ -11,4 +11,4 @@ Live access to templates:
 
 - [SCDC](https://josecarlosgt.github.io/implementation-templates/scdc)
 - [MiOra](https://josecarlosgt.github.io/implementation-templates/miora)
-- [Eastmont Community Center](https://josecarlosgt.github.io/implementation-templates/ecc)]
+- [Eastmont Community Center](https://josecarlosgt.github.io/implementation-templates/ecc)
