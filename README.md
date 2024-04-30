@@ -6,3 +6,9 @@ In this repository, you will find templates containing CSS rules and examples of
 When customizing the template, address all the comments written as "ToDo." 
 
 All the templates use Bootstrap CSS via a CDN. To implement Bootstrap JavaScript-based components, you will need to add Bootstrap JavaScript to your page.
+
+Live access to templates:
+
+- [SCDC](https://josecarlosgt.github.io/implementation-templates/scdc)
+- [MiOra](https://josecarlosgt.github.io/implementation-templates/miora)
+- [Eastmont Community Center(https://josecarlosgt.github.io/implementation-templates/ecc)]
